@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610685915691",
+    "project_id": "paramov-b4f20",
+    "storage_bucket": "paramov-b4f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610685915691:android:93f1a1ebac2a45d54dd06e",
+        "android_client_info": {
+          "package_name": "com.vanshaj.paramov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMkBO4AaA_rrtyX4YKoF8zoLhV0iCc_LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
