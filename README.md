@@ -1,3 +1,7 @@
+Paramov 
+
+Paralyzed people are unable to communicate their needs since they are unable to speak clearly. Improved communication between patients and caregivers can be achieved with a paralytic smart health system.  The smart gloves must provide real-time feedback on finger movements in order to assist caretakers in making informed judgments. The data is subsequently sent via  Wi-Fi to Paramov app, allowing doctors, nurses, or other caregivers to swiftly access and comprehend the user's present state of health. In order to address this issue, we developed a method that lets these people interact using simple gestures.
+
 INSTRUCTION TO EXECUTE THE CODE:
 
 STEP 1: The initial step includes connecting the sensors, ESP8266 and other components.
